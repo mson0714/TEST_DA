@@ -136,6 +136,9 @@ copy gesture_model_20250927_005401\best_model.h5 gesture_model_20250924_102037\
 - [ ] 🥽 Hỗ trợ VR/AR
 
 ---
+# 🧑‍💻 Nhóm phát triển
+- Thành viên DTU-K28HP-TBM 👨‍👩‍👧‍👦
+---
 
 **🎉 Chúc bạn chơi game và thu thập dữ liệu vui vẻ!**
 
