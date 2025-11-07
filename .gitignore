@@ -1,2 +1,43 @@
 # Bỏ qua thư mục build
 archive/
+
+# Bỏ qua các tệp tin tạm thời
+*.tmp
+*.log
+*.bak
+# Bỏ qua các tệp tin hệ thống
+.DS_Store
+Thumbs.db
+# Bỏ qua thư mục node_modules
+node_modules/
+# Bỏ qua các tệp tin cấu hình môi trường
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Bỏ qua các tệp tin biên dịch
+dist/
+# Bỏ qua các tệp tin IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# Bỏ qua các tệp tin nhật ký npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Bỏ qua các tệp tin lock của package manager
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+# Bỏ qua các tệp tin tạm thời của hệ thống
+*.swp
+*~
+# Bỏ qua các tệp tin biên dịch Python
+__pycache__/
+*.pyc
+# Bỏ qua các tệp tin biên dịch Java
+*.class
